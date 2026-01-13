@@ -25,5 +25,6 @@
 
   - [rfc-editor.org: The OAuth 2.0 Authorization Framework](https://www.rfc-editor.org/rfc/rfc6749.txt)
 
-
+## Commands 
+  - <code>wget https://www.rfc-editor.org/rfc/rfc6749.txt<code>
 
