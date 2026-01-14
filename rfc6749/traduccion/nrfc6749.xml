@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- name="GENERATOR" content="github.com/mmarkdown/mmark Mmark Markdown Processor - mmark.miek.nl" -->
+<t>+++
+title = &quot;The OAuth 2.0 Authorization Framework&quot;
+abbrev = &quot;OAuth 2.0&quot;
+docname = &quot;rfc6749&quot;
+category = &quot;std&quot;
+ipr = &quot;trust200902&quot;
+area = &quot;Security&quot;
+workgroup = &quot;Web Authorization Protocol&quot;
+submissiontype = &quot;IETF&quot;</t>
+<t>[[author]]
+initials = &quot;D.&quot;
+surname = &quot;Hardt&quot;
+fullname = &quot;Dick Hardt&quot;
+role = &quot;editor&quot;
+organization = &quot;Microsoft&quot;
+  [author.address]
+  email = &quot;dick.hardt@gmail.com&quot;</t>
+<t>[date]
+month = &quot;October&quot;
+year = &quot;2012&quot;
++++</t>
+
+<section anchor="abstract"><name>Abstract</name>
+<t>The OAuth 2.0 authorization framework enables a third-party application to obtain limited access to an HTTP service...</t>
+</section>
+
+<section anchor="introducción"><name>Introducción</name>
+<t>En el modelo tradicional de autenticación cliente-servidor...</t>
+</section>
+

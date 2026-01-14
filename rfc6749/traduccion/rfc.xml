@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- name="GENERATOR" content="github.com/mmarkdown/mmark Mmark Markdown Processor - mmark.miek.nl" -->
+<t>title: Protocolo de Prueba RFC
+abbrev: Prueba
+docname: draft-test-00
+category: info</t>
+<t>author:
+  ins: J. Doe
+  name: John Doe
+  org: Ejemplo</t>
+<t>date: 2012-10-13</t>
+
+<section anchor="abstract-este-es-un-abstract-de-una-sola-linea-para-evitar-errores-de-procesamiento-en-windows"><name>abstract: Este es un abstract de una sola linea para evitar errores de procesamiento en Windows.</name>
+</section>
+</section>
+
+<section anchor="introduccion"><name>Introduccion</name>
+<t>Este es el cuerpo del documento.</t>
+</section>
+
+<section anchor="consideraciones-de-seguridad"><name>Consideraciones de Seguridad</name>
+<t>Contenido obligatorio.</t>
+</section>
+
